@@ -21,6 +21,10 @@ Many organizations have locally hosted applications that are made accessible wit
 ## IP Address Details
 The range of loopback addresses in **IPv4** is `127.0.0.0` to `127.255.255.255`, with the most common being `127.0.0.1`.
 
+You can look up your Loopback address by using this command in the Command Prompt or Powershell
+
+```nslookup localhost```
+
 ## Step-by-Step Guide
 
 ### Step 1: Download Python
